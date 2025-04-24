@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.ico</file>
+        <file>images/img/arrow0.png</file>
+        <file>images/img/arrow1.png</file>
+        <file>images/img/arrow2.png</file>
+        <file>images/img/arrow3.png</file>
+        <file>images/img/diamond.png</file>
+        <file>images/img/file_add.png</file>
+        <file>images/img/file_delete.png</file>
+        <file>images/img/file_open.png</file>
+        <file>images/img/file_save.png</file>
+        <file>images/img/line.png</file>
+        <file>images/img/MainIco.png</file>
+        <file>images/img/rectangle.png</file>
+        <file>images/img/Round.png</file>
+        <file>images/img/Rounded_Rectangle.png</file>
+        <file>images/img/settings.png</file>
+        <file>images/img/trapezoid.png</file>
+        <file>images/home.png</file>
+        <file>images/1.gif</file>
+        <file>images/mqtt.png</file>
+        <file>images/nomqtt.png</file>
+        <file>images/bmqtt.jpg</file>
+        <file>images/version1.png</file>
+        <file>images/version2.png</file>
+        <file>images/DU.png</file>
+        <file>images/fault.png</file>
+        <file>images/nofault.png</file>
+        <file>images/info.png</file>
+        <file>images/return.png</file>
+        <file>images/DiagnosticFunc.png</file>
+        <file>images/refresh.png</file>
+    </qresource>
+</RCC>

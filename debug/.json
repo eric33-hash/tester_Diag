@@ -1,0 +1,10 @@
+{
+    "sequences": [
+        "phyRequest;10 81;50 81",
+        "phyRequest;22 F1 87;62 F1 87",
+        "phyRequest;2E F1 5A;6E F1 5A",
+        "phyRequest;22 CE 00;62 CE 00",
+        "phyRequest;2E F0 10;6E F0 10",
+        "phyRequest;2E F0 10;6E F0 10"
+    ]
+}
